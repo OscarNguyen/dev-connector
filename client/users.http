@@ -1,0 +1,8 @@
+###
+
+GET http://localhost:5002/api/users/test HTTP/1.1
+content-Type: application/json
+###
+
+GET http://localhost:5002/api/profile/test HTTP/1.1
+content-Type: application/json
